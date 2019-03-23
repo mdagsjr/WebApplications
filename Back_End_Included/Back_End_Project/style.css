@@ -1,0 +1,14 @@
+.container {
+
+	border: 1px solid gray;
+    background-color: #009148;
+	border-radius: 10px;
+}
+aside{
+	background-color: blue;
+	border-radius: 10px;
+	font-size:12px;
+}
+aside p{
+	color: white;
+}
